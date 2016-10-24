@@ -1,4 +1,4 @@
 # Private Files #
-#################
-.ipynb_checkpoints/
 03 - Interactive Viz/data/api_key.txt
+# ipython files #
+.ipynb_checkpoints/
