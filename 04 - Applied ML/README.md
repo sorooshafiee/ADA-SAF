@@ -11,7 +11,7 @@ you plan to implement!
 
 ## Background
 In this homework we will gain experience on Applied Machine Learning, exploring an interesting dataset about soccer players and referees.
-You can find all the data in the `CrowdstormingDataJuly1st.csv` file, while you can read a thorough [dataset description here](DATA.md).
+You can find all the data in the `CrowdstormingDataJuly1st.csv` file, while you can read a thorough [dataset description here](./dataset/README.md).
 Given that the focus of this homework is Machine Learning, I recommend you to first take a look at [this notebook](http://nbviewer.jupyter.org/github/mathewzilla/redcard/blob/master/Crowdstorming_visualisation.ipynb)
 containing a solid work in pre-processing + visualization of the given dataset. You are *not* allowed to just copy/paste the pre-processing steps
 performed by the notebook authors -- you are still supposed to perform your own data analysis for the homework. Still, I'm confident that consulting first
